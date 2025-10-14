@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 */config/development
 */logs/log-*.php
 !*/logs/index.html
@@ -16,3 +17,6 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+=======
+node_modules
+>>>>>>> ac7b298 (Primer commit portfolio)
