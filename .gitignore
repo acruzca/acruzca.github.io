@@ -20,3 +20,4 @@ application/logs/*
 =======
 node_modules
 >>>>>>> ac7b298 (Primer commit portfolio)
+/nbproject/
